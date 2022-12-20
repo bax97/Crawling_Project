@@ -20,5 +20,10 @@ CNN1.ipynb은 Crawling_img에서 크롤링한 행복한 이미지, 슬픈 이미
 
 app.py 파일은 Python 개발 환경에서 웹 페이지를 구현할 수 있는 Streamlit 모듈을 사용하여 간단하게 웹 페이지를 구성한 후 모델 분석 값을 통해 csv파일을 불러올 수 있도록 구성하였습니다.
 
-<< Streamlit 사용 방법 >>
-## streamlit run app.py 
+## << Streamlit 사용 방법 >>
+streamlit run app.py
+
+streamlit run 파일명
+
+
+## 크롤링한 이미지 파일 폴더도 같이 올릴려고 했으나 Git Bash 오류 때문에 올리지 못했습니다..
